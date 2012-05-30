@@ -1,6 +1,6 @@
 # director-explorer
 
-tools for interacting with and exploring <a href="http://github.com/flatiron/director">Director</a> routers.
+Tools for exploring <a href="http://github.com/flatiron/director">Director</a> routers.
 
 # Features
 
