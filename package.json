@@ -1,0 +1,22 @@
+{
+  "name": "director-explorer",
+  "author": "Nodejitsu Inc. <info@nodejitsu.com>",
+  "maintainers": [
+    "marak <marak@nodejitsu.com>"
+  ],  
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Marak/director-explorer.git"
+  },
+  "main": "./lib/director-explorer",
+  "dependencies": {
+    "director": "1.0.10",
+    "traverse": "0.6.1"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
