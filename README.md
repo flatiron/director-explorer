@@ -1,10 +1,16 @@
 # director-explorer
 
-Tools for exploring <a href="http://github.com/flatiron/director">Director</a> routers.
+HTML explorer interface for <a href="http://github.com/flatiron/director">Director</a> routers.
 
 # Features
 
  - Can currently output a plain-text view of a `Director.Router` instance
+
+
+# See Also:
+
+ - [director-reflector](http://github.com/flatiron/director-reflector)
+ - [restful](http://github.com/flatiron/restful)
 
 # Installation
 
@@ -56,5 +62,3 @@ console.log(de.table(router));
 
  - Add HTML view with collapsable menus
  - Add WSDL view
- - Create director-client project for auto-generated director clients
- - Create html demo forms and auto-documentation for director routers
