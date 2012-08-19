@@ -4,14 +4,14 @@
   "maintainers": [
     "marak <marak@nodejitsu.com>"
   ],  
-  "version": "0.0.1",
+  "version": "0.2.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/Marak/director-explorer.git"
   },
   "main": "./lib/director-explorer",
   "dependencies": {
-    "director": "1.0.10",
+    "director": "1.1.x",
     "traverse": "0.6.1"
   },
   "devDependencies": {},
